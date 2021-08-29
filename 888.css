@@ -1,0 +1,35 @@
+#title {
+	Font-size:40px;
+	font-style:italic;
+	font-family:sans-serif;
+	font-weight:bold;
+	text-align:center;
+	color: #008eb0;
+	padding-top:5px;
+}
+
+#p {
+	Font-size:20px;
+	font-weight:bold;
+	color: #008eb0;
+	text-align:center;
+	font-family: monospace;
+	top:90px;
+	text-align:center;
+}
+#a {
+	Font-size:15px;
+	font-weight:bold;
+	color: #204d58;
+	text-align:center;
+	font-family: ;
+	top:90px;
+	text-align:center;
+}
+body {
+	background-color:white;
+}
+
+
+
+
